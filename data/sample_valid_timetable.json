@@ -1,0 +1,27 @@
+[
+  {
+    "exam": "AI",
+    "slot": "Mon-09:00",
+    "room": "A"
+  },
+  {
+    "exam": "Statistics",
+    "slot": "Mon-09:00",
+    "room": "B"
+  },
+  {
+    "exam": "DB",
+    "slot": "Mon-14:00",
+    "room": "A"
+  },
+  {
+    "exam": "Networks",
+    "slot": "Mon-14:00",
+    "room": "B"
+  },
+  {
+    "exam": "Algorithms",
+    "slot": "Tue-09:00",
+    "room": "A"
+  }
+]

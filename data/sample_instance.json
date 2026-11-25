@@ -1,0 +1,14 @@
+{
+  "exams": [
+    { "id": "AI", "students": ["S1", "S2", "S3"] },
+    { "id": "DB", "students": ["S1", "S4"] },
+    { "id": "Networks", "students": ["S2", "S5"] },
+    { "id": "Algorithms", "students": ["S3", "S4"] },
+    { "id": "Statistics", "students": ["S5", "S6"] }
+  ],
+  "rooms": [
+    { "id": "A", "capacity": 3 },
+    { "id": "B", "capacity": 2 }
+  ],
+  "slots": ["Mon-09:00", "Mon-14:00", "Tue-09:00"]
+}
